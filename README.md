@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me  
 
-💻 **MERN Stack Developer | React-Native Mobile App Developer (Android/iOS)**  
+💻 **Full Stack Software Developer **  
 
 I build **responsive web apps and feature-rich mobile applications**.  
 Currently working on **React Native projects for Android and iOS**, while expanding my skills across the **MERN stack**.  
