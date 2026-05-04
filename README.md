@@ -14,10 +14,10 @@
 
 💻 **Full Stack Software Developer**  
 
-I build **responsive web apps and feature-rich mobile applications**.  
-Currently working on **React Native projects for Android and iOS**, while expanding my skills across the **MERN stack**.  
+I build **modern, responsive, and scalable web and feature-rich mobile applications**.  
+I work with the MERN Stack and React Native, focusing on clean code, performance, and great user experience.
 
-I enjoy **learning new technologies** and turning ideas into real projects.  
+I enjoy turning ideas into real-world projects and continuously improving my development skills.  
 
 ---
 
