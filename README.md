@@ -1,6 +1,6 @@
 <!-- Typing SVG - Modern Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Azhar+Mehmood;MERN+Stack+Developer;React-Native+Mobile+App+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=ffffff&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Azhar+Mehmood;Full+Stack+Developer;React-Native+Mobile+App+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- Header Gradient Wave -->
